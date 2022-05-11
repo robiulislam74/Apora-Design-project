@@ -1,0 +1,65 @@
+@media(min-width:320px) and (max-width:575.98px){
+
+    .navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {
+        margin-top: -25px;
+    }
+
+    nav ul li {
+        margin-bottom: -4px;
+    }
+    
+    #bannar-part h2 {
+        font-size: 32px;
+        width: auto;
+        margin-top: 29px;
+    }
+
+    #bannar-part p {
+        font-size: 16px;
+    }
+
+    #bannar-part a {
+        font-size: 16px;
+        padding: 13px 17px;
+    }
+
+    #bannar-part .first-btn {
+        margin-right: 14px;
+    }
+
+    #bannar-part img {
+        margin-top: 60px;
+    }
+
+    #about-part h2 {
+        margin-top: 270px;
+    }
+
+    #about-part .item {
+        margin-top: 25px;
+    }
+
+    #about-part p {
+        font-size: 16px;
+        width: auto;
+        margin: 30px auto;
+    }
+
+    #about-part .details {
+        width: auto;
+    }
+
+    #service-part p {
+        margin: 30px auto;
+        width: auto;
+    }
+
+    #service-part h2 {
+        margin-top: -46px;
+    }
+
+    
+
+
+    /*======================*/
+}
